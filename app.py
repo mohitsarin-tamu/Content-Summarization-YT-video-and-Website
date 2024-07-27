@@ -12,7 +12,7 @@ st.subheader('Summarize URL')
 
 # run streamlit
 with st.sidebar:
-    groq_api_key = st.text_input("GROQ_API_KEY", value="", type="password")
+    groq_api_key = st.text_input("GROQ API KEY", value="", type="password")
 
 generic_url = st.text_input("URL", label_visibility="collapsed")
 
