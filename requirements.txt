@@ -1,6 +1,5 @@
 validators == 0.28.1
 youtube_transcript_api
-open-ai
 pandas
 langchain
 python-dotenv
